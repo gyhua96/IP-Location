@@ -1,5 +1,5 @@
 <?php
-$ak="m6F1zagvhZMAy1eeFGnS57sMdxXx4g3t";
+$ak="INPUT YOU AK KEY";
 if($_POST['ip']!="")
 {
         $ip=$_POST['ip'];
